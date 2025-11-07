@@ -17,7 +17,7 @@
     <!-- THIS IS THE IMPORTANT PART - Reference to Desktop Goose -->
     <Reference Include="GooseDesktop">
       <!-- UPDATE THIS PATH to where YOUR Desktop Goose is installed -->
-      <HintPath>C:\Users\YourUsername\Desktop\GooseDesktop\GooseDesktop.exe</HintPath>
+      <HintPath>"C:\Users\irrev\Documents\Privat\DesktopGoose\GooseDesktop.exe"</HintPath>
       <Private>False</Private> <!-- Don't copy to output -->
     </Reference>
   </ItemGroup>
