@@ -1,0 +1,9 @@
+{
+  "ModName": "ChatWithGooseMod",
+  "Version": "1.0.0",
+  "Author": "Irreventfire",
+  "Description": "Allows the desktop goose to randomly open a chat window for conversations",
+  "ChatFrequency": 5,
+  "EnableAI": false,
+  "Notes": "Set EnableAI to true when you implement AI integration"
+}
